@@ -1,0 +1,7 @@
+n = int(input("Enter an integer: "))
+a=(bin(n))
+b=(oct(n))
+c=(hex(n))
+print(a,"in binary.")
+print(b,"in octal.")
+print(c,"in hexadecimal.")
